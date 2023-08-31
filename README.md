@@ -1,2 +1,2 @@
-# Meggitt_Decoding_Algorithm
-A Simple Implementation of Meggitt Decoding Algorithm.
+# Meggitt Decoding Algorithm
+$\color{}{\text{A Simple Implementation for Meggitt Decoding Algorithm.}}$
